@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/carte"
+        android:title="Card"
+        android:icon="@drawable/baseline_credit_card_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/GPS"
+        android:title="GPS"
+        android:icon="@drawable/baseline_location_on_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profil"
+        android:icon="@drawable/baseline_account_circle_24"
+         app:showAsAction="always" />
+</menu>
+

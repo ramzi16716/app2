@@ -1,0 +1,36 @@
+<resources>
+    <string-array name="specialite_array">
+        <item>Select a Spécialité:</item>
+        <item>Demenagement</item>
+        <item>Furniture</item>
+        <item>Electronic</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <dimen name="image_width">136dp</dimen>
+    <dimen name="image_height">136dp</dimen>
+
+    <string-array name="blood">
+        <item>Select a Blood type:</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    <string-array name="specialite_array1">
+        <item>Select a Spécialité:</item>
+        <item>Manager</item>
+        <item>Administrators</item>
+
+    </string-array>
+    <string name="app_name">\t\tDétection Accidents</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="Close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

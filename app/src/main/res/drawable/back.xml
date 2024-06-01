@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="24dp" />
+
+            <solid android:color="#14213d" /> <!-- Nouvelle couleur de fond pour tous les éléments -->
+        </shape>
+    </item>
+    <item android:drawable="@drawable/baseline_arrow_back_24" android:gravity="center"/>
+</layer-list>

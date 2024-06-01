@@ -1,0 +1,10 @@
+<!-- qr_code_frame.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" /> <!-- Couleur et épaisseur de la bordure -->
+    <size
+        android:width="200dp"
+        android:height="200dp" /> <!-- Taille du cadre carré -->
+</shape>

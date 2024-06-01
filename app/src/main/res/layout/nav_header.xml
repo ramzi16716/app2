@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:padding="16dp"
+    android:background="#fca311"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <ImageView
+        android:layout_width="219dp"
+        android:layout_height="193dp"
+        android:layout_gravity="center"
+        android:foregroundGravity="bottom"
+        android:src="@drawable/logo7" />
+
+</LinearLayout>
